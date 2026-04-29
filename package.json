@@ -1,0 +1,12 @@
+{
+  "name": "sothik-bangla-calendar",
+  "version": "1.0.0",
+  "description": "Bengali Calendar with Panchang",
+  "scripts": {
+    "dev": "vercel dev",
+    "build": "echo 'Building...'"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}

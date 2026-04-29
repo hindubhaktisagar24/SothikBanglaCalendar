@@ -1,0 +1,7 @@
+{
+  "buildCommand": "echo 'Building...'",
+  "public": true,
+  "env": {
+    "VEDICASTRO_API_KEY": "@vedicastro_key"
+  }
+}
